@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\bin\Debug\net7.0\ArrayConversion.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\bin\Debug\net7.0\ArrayConversion.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\bin\Debug\net7.0\ArrayConversion.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\bin\Debug\net7.0\ArrayConversion.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\bin\Debug\net7.0\ArrayConversion.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\refint\ArrayConversion.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ArrayConversion.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-5\ArrayConversion\obj\Debug\net7.0\ref\ArrayConversion.dll
